@@ -16,7 +16,7 @@ SECRET_KEY = '8vf#2@xc5t2^9y!hi%v+46i^p#-4r6rl-vq(c5oorswdb_c1q8'
 DEBUG = True
 
 #ALLOWED_HOSTS = ['myhotelsite.herokuapp.com']
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['myhotelsite.herokuapp.com','127.0.0.1']
 
 # Application definition
 
